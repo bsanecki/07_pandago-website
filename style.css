@@ -45,6 +45,7 @@ h2{font-size:clamp(32px,4.6vw,56px)}
 .cell h3{font-size:22px;margin-bottom:10px}.cell p{color:var(--mute);font-size:15px}
 .s2{grid-column:span 2}.s3{grid-column:span 3}.s4{grid-column:span 4}
 .cell .big{font-family:'Bricolage Grotesque';font-size:44px;font-weight:800;line-height:1;margin-bottom:12px}
+.big .arr{display:inline-block;transform:translateY(-.1em)}
 .pts{background:linear-gradient(135deg,#2a1f6b,#1a1445);border-color:rgba(139,123,255,.4)}
 .pts .big{color:var(--gold)}
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
